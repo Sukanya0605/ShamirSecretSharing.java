@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ShamirSecretSharing",
+            "request": "launch",
+            "mainClass": "ShamirSecretSharing",
+            "vmArgs": "-cp lib/json-20210307.jar;bin"
+        }
+    ]
+}
